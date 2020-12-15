@@ -11,6 +11,7 @@
 <p>Bachelor of Science Program in Data Science</p>
 
 <a href="https://www.cp.su.ac.th/curricula/Bachelor-of-Science-Program-in-Data-Science">detail for Data Science
-<img src="https://i.pinimg.com/originals/ef/f5/cb/eff5cb02618ca03ce8a16fee6a3f1a9e.jpg" alt="Gothic Castle" width="180" height="135"></a>
+<br>
+<img src="https://i.pinimg.com/originals/ef/f5/cb/eff5cb02618ca03ce8a16fee6a3f1a9e.jpg" alt="Gothic Castle" width="360" height="270"></a>
     </body>
 </html>
